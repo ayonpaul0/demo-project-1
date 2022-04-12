@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+    font-family: 'Merriweather', serif;
+}
+
+header{
+    position: relative;
+    background-color: #BFFFF0;
+    padding-top: 110px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 350px;
+    top: 100px;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    color: #2c786c;
+}
+
+h2{
+    color: #2c786c;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 270px;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.my-picture{
+    width: 200px;
+    height: 300px;
+    border-radius: 80%;
+    margin-bottom: 25px;
+}
+
+.intro-1{
+    width: 50%;
+    margin: 20px auto;
+    line-height: 2;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 6%;
+    margin: 100px auto;
+    color: #2c786c;
+}
+
+h3{
+    color: #11999E;
+    font-size: 20px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 150px auto;
+    text-align: left;
+}
+
+.programming{
+    width: 28%;
+    float: left;
+    margin-right: 75px;
+    text-align: right;
+    
+}
+
+.calculator{
+    width: 28%;
+    float: right;
+    margin-left: 75px;
+    text-align: left;
+    
+}
+
+.climbing{
+    width: 28%;
+    float: left;
+    margin-right: 75px;
+    text-align: right;
+    
+}
+
+.intro-2{
+    text-align: left;
+    line-height: 2.5;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 6%;
+    margin: 100px auto;
+    color: #2c786c; 
+}
+
+.intro-3{
+    width: 50%;
+    margin: 35px auto;
+}
+
+
+.buttonClass {
+    font-size:16px;
+    font-family:Arial;
+    width:134px;
+    height:50px;
+    border-width:1px;
+    color:#fff;
+    border-color:#599bb3;
+    font-weight:bold;
+    border-top-left-radius:11px;
+    border-top-right-radius:11px;
+    border-bottom-left-radius:11px;
+    border-bottom-right-radius:11px;
+    box-shadow: 0px 10px 14px -7px #276873;
+    text-shadow: 0px 1px 0px #3d768a;
+    background:linear-gradient(#599bb3, #408c99);
+    padding: 11px 27px;
+    text-decoration: none;
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(#408c99, #599bb3);
+  }
+
+  .bottom-container{
+    background-color: #9FB4FF;
+    padding: 50px;
+  }
+
+  .linked{
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+    margin: 20px;
+    text-decoration: none;
+  }
+
+  .linked:hover{
+      color: #ffffff;
+  }
+
+  .intro-end{
+      font-size: 10px;
+  }
+                
